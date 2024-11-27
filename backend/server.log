@@ -1,0 +1,7 @@
+nohup: ignoring input
+
+> ecommerce@1.0.0 start
+> node backend/server.js
+
+Server is working on http://localhost:5000
+Mongodb connected with server: cluster0-shard-00-01.on80k.mongodb.net
